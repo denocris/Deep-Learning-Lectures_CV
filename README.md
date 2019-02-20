@@ -1,2 +1,3 @@
-# Machine Learning Lab
-You can find my ML (mostly Deep Learning) experiments, tutorials and talks!
+# Deep Learning for Computer Vision: an introduction
+
+These lectures where given at a Master in Data Science
